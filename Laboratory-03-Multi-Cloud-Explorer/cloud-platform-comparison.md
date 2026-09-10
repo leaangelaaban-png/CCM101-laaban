@@ -27,3 +27,13 @@ Google Cloud is a strong choice for AI and Kubernetes workloads because it provi
 ## 4. Which cloud provider would you personally choose and why?
 
 I would personally choose Microsoft Azure because I am interested in how cloud services can work together with technologies that many organizations already use. Azure stands out to me because it supports both cloud resources and existing Microsoft environments. I would like to explore how organizations can gradually move their systems to the cloud without completely changing the technologies they already depend on.
+
+# Cloud Service Equivalence Map
+
+| Service Category | AWS | Microsoft Azure | Google Cloud |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
