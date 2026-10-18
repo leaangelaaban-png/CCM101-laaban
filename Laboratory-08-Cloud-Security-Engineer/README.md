@@ -29,8 +29,4 @@ This mission demonstrates how to secure a Linux web server using the Uncomplicat
 
 This mission developed practical skills in Docker deployment, Linux firewall configuration, network port management, security auditing, Markdown documentation, and GitHub portfolio maintenance.
 
-## Screenshots
 
-- `screenshots/vulnerable-app-running.png`
-- `screenshots/firewall-activated.png`
-- `screenshots/firewall-port-allowed.png`
